@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 
+👋🏽 Hey, I am Akshit
+💫 About Me:
 Passionate about building, learning, and growing through code
 
 
