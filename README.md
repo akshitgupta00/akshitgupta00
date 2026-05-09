@@ -6,9 +6,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF6DE?style=flat-square&logoColor=red)](https://www.linkedin.com/in/akshit-g/)
-[![Gmail](https://img.shields.io/badge/Gmail-FFF6DE?style=flat-square&logoColor=red)](mailto:akshtgta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFF6DE?style=flat-square&logoColor=red)](https://github.com/akshitgupta00)
+<a href="https://linkedin.com/in/akshit-g" target="_blank"><img align="center" width="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://x.com/AkshitG2007" target="_blank"><img align="center" width="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="mailto:akshtgta@gmail.com">
+  <img align="center" width="40" src="https://cdn.simpleicons.org/gmail/F5F5F5" />
+</a>
+
 
 <br/>
 
