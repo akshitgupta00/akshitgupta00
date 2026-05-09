@@ -115,7 +115,9 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 
 <div align="center">
 
-### <h2>Thanks for Visiting!</h2>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=akshitgupta00&style=flat-square&color=FFB6C1)
+### <h2>Thanks for Visiting 🥰</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80">
+  <br><br>
+</p>
