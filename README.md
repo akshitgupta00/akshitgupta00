@@ -1,5 +1,5 @@
 # 
-👋🏽 Hey, I am Akshit
+<h1 align="center">Hi 👋, I'm Akshit</h1>
 💫 About Me:
 Passionate about building, learning, and growing through code
 
