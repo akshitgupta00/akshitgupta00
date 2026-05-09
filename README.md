@@ -11,7 +11,8 @@
 <a href="mailto:akshtgta@gmail.com">
   <img align="center" width="40" src="https://cdn.simpleicons.org/gmail/F5F5F5" />
 </a>
-
+<a href="https://instagram.com/iiakshit" target="_blank"><img align="center" width="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://discord.com/users/1357240079525085194" target="_blank"><img align="center" width="40" src="https://cdn.simpleicons.org/discord/F5F5F5" /></a>
 
 <br/>
 
