@@ -1,7 +1,7 @@
 # 
 <h1 align="center">Hi 👋, I'm Akshit</h1>
-💫 About Me:
-Passionate about building, learning, and growing through code
+<h3>💫 About Me:
+Passionate about building, learning, and growing through code</h3>
 
 
 ## 🌐 Socials:
