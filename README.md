@@ -18,6 +18,8 @@
 
 ---
 
+<div align="center">
+
 ## About me 😄
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3J2dXJyNHFrMTU2d3N4aDNueHhkMmdpMWcycnZmb2pvMnViZ3JyOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="280"/>
@@ -54,22 +56,26 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 ### 🗄️ Databases
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" />
 
-<br/><br/>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 ---
+<h2 style="color:FFFAF0;">
+📊 GitHub Stats
+</h2>
 
-# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=akshitgupta00&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=akshitgupta00&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshitgupta00&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshitgupta00&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+---
+<br/><br/>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ---
