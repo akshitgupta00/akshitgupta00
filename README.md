@@ -2,7 +2,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="80%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
 </p>
 
 # Hey, I'm Akshit 🤘
@@ -132,5 +132,5 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 
 
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CFECF3&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CFECF3&height=100&section=footer"/>
 </p>
