@@ -1,6 +1,11 @@
-<div align="center">
 
-# Hi, I'm Akshit 🤘
+<div align="center">
+  
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgzOTIwODUsIm5iZiI6MTc3ODM5MTc4NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTEwVDA1NDMwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2NTlmMmZmYzQzMDEyZWFhYWFkNzM0NGEwNzlmNDdjN2FmYTlmYjA5OWRlNDhlNGY2OGY3YjM0NzE0MzI2NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.lLp0ZmxBgZTyyRS1y0Mtf01UoZ6c4Ey1SHDNphs6wR0" width="80%" />
+</p>
+
+# Hey, I'm Akshit 🤘
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=FFFAF0&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=ComputerScience+Undergraduate+%7C+MAIT+'29"/>
 
@@ -111,7 +116,7 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 </a>
 <br/><br/>
 
-**💬 Open to:** `Collaborations` `Job Opportunities` 
+**💬 Open to:** `Collaborations` `Job Opportunities` `Project ideas` `Group Disussions`  
 
 </div>
 
@@ -119,9 +124,12 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 
 <div align="center">
 
-### <h2>Thanks for Visiting 🥰</h2>
+### Thanks for Visiting 🥰
+![Profile Views](https://komarev.com/ghpvc/?username=akshitgupta00&style=plastic&color=A2CB8B)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80">
-  <br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+
+
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CFECF3&height=80&section=footer"/>
 </p>
