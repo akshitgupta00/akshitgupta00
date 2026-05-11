@@ -56,14 +56,12 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-### 💻 Languages
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,c&theme=dark" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" />
 <br/><br/>
 
-### 🗄️ Databases
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" />
+
+
 
 
 
