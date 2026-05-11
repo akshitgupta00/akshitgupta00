@@ -128,7 +128,6 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshitgupta00&style=plastic&color=A2CB8B)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 
 
 </p><p align="center">
