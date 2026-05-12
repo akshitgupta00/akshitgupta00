@@ -68,7 +68,8 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 
 ---
 <h2 style="color:FFFAF0;">
-📊 GitHub Stats
+
+📊 GitHub Analytics
 </h2>
 
 ![](https://github-readme-stats.shion.dev/api?username=akshitgupta00&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -78,12 +79,10 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshitgupta00&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
----
 <br/><br/>
 <div align="center">
   <img src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif?raw=true" />
 </div>
-
 
 ---
 
