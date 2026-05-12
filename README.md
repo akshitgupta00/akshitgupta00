@@ -7,7 +7,7 @@
 
 # Hey, I'm Akshit 🤘
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=FFFAF0&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Computer+Science+UnderGraduate+%7C+MAIT+'29"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=F0D8A1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Computer+Science+UnderGraduate+%7C+MAIT+'29"/>
 
 <br/>
 
