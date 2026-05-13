@@ -37,7 +37,7 @@
 
 ## About me 😄
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3J2dXJyNHFrMTU2d3N4aDNueHhkMmdpMWcycnZmb2pvMnViZ3JyOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3J2dXJyNHFrMTU2d3N4aDNueHhkMmdpMWcycnZmb2pvMnViZ3JyOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="260"/>
 
 A First-year B.Tech CS student with a relentless drive for growth. I believe in 1% daily improvement and staying firm toward my long-term goals in tech.
 
