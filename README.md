@@ -49,7 +49,7 @@ Always eager to learn from seniors and industry professionals. If you’re into 
 👩‍💻 Name: Akshit Gupta
 🎓 Education: B.Tech (Computer Science with specialisation in A.I.)
 🏫 College: Maharaja Agrasen Institute Of Technology
-🔬 Focus: AI, Data Structures, Cyber Secuirity
+🔬 Focus: AI, DSA, Cyber Secuirity
 
 ```
 
